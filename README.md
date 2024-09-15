@@ -4,6 +4,10 @@ In the realm of digital commerce, establishing trust between transacting parties
 Utilizing blockchain technology and smart contracts, the app ensures tamper-proof transaction records and automates fund release based on predefined conditions. Integration with payment APIs, such as MTN Mobile Money, facilitates seamless fund transfers. A user-friendly interface, customizable transaction conditions, and dispute resolution enhance user experience and mitigate conflicts.
 The app's multi-industry application and cross-border transaction compatibility make it suitable for diverse sectors and regions. Revenue generation through escrow fees and premium features ensures financial sustainability. By fostering confidence and reliability in online transactions, the Digital Escrow Link app aims to revolutionize digital commerce and empower businesses and individuals worldwide.
 
+## DEMO
+
+https://j5p43-myaaa-aaaap-acbaq-cai.icp0.io/
+
 ## Installation instructions:
 
 Welcome to your new Escrow-Mate project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
@@ -18,7 +22,7 @@ To learn more before you start working with Escrow-Mate, see the following docum
 If you want to start working on your project right away, you might want to try the following commands:
 
 ```bash
-cd MomoMarketLinkAdminDashboard/
+cd escrow-Mate/
 dfx help
 dfx canister --help
 ```
