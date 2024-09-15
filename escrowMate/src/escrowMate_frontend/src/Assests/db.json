@@ -1,0 +1,123 @@
+{
+    "transactions": [
+      {
+        "buyerId": "WejdfrbhL59OGAH8boZ5R9Lp00Og2",
+        "creditAmount": "285",
+        "referenceId": "8a7dd0ea-1ce1-42fa-8085-463136cd8541",
+        "debitAmount": "300",
+        "deliveryDuration": 7,
+        "serviceType": "Mobile",
+        "location": "Ndola",
+        "status": "Completed",
+        "sellerId": "kjhdfsd87yweuihjnsd",
+        "sellerPhone": "09784544121",
+        "buyerPhone": "0968574215",
+        "createdAt": "2023-11-20 11:25:28",
+        "sellerData": {},
+        "buyerData": {}
+      },
+      {
+        "buyerId": "WYPnGQr5oWCq1T4pMx3QuhBjUioBPOin",
+        "creditAmount": "285",
+        "referenceId": "8a7dd0ea-1ce1-42fa-8085-463136cd8541",
+        "debitAmount": "300",
+        "deliveryDuration": 7,
+        "serviceType": "Mobile",
+        "location": "Ndola",
+        "status": "Completed",
+        "sellerId": "kjhdfsd87yweuihjnsd",
+        "sellerPhone": "09784544121",
+        "buyerPhone": "0968574215",
+        "createdAt": "2023-11-20 11:25:28",
+        "sellerData": {},
+        "buyerData": {}
+      },
+      {
+        "buyerId": "8lQ53SZ626hA43jjfrp9RD3kuQO54V9e",
+        "creditAmount": "285",
+        "referenceId": "8a7dd0ea-1ce1-42fa-8085-463136cd8541",
+        "debitAmount": "300",
+        "deliveryDuration": 7,
+        "serviceType": "Mobile",
+        "location": "Ndola",
+        "status": "Completed",
+        "sellerId": "kjhdfsd87yweuihjnsd",
+        "sellerPhone": "09784544121",
+        "buyerPhone": "0968574215",
+        "createdAt": "2023-11-20 11:25:28",
+        "sellerData": {},
+        "buyerData": {}
+      },
+      {
+        "buyerId": "92CEqwSysUSktHgBGVMfEWw39YWifmoM",
+        "creditAmount": "285",
+        "referenceId": "8a7dd0ea-1ce1-42fa-8085-463136cd8541",
+        "debitAmount": "300",
+        "deliveryDuration": 7,
+        "serviceType": "Mobile",
+        "location": "Ndola",
+        "status": "Completed",
+        "sellerId": "kjhdfsd87yweuihjnsd",
+        "sellerPhone": "09784544121",
+        "buyerPhone": "0968574215",
+        "createdAt": "2023-11-20 11:25:28",
+        "sellerData": {},
+        "buyerData": {}
+      }
+    ],
+
+    "users": [
+      {
+        "password": "$2b$10$miZNs3JqyWnVdGn1Wfi.q.7u00eik24wpqFKUzFEUDN1Ko2Ulz9am",
+        "name": "Luke Ben",
+        "phone": "9754851201",
+        "email": "luke@user.com",
+        "uid": "WYPnGQr5oWCq1T4pMx3QuhBjUioBPOin",
+        "createdAt": "2023-11-24 20:03:20",
+        "role": "buyer",
+        "address": "Lusaka"
+      },
+      {
+        "role": "seller",
+        "password": "$2b$10$zRycnIIaRbSRGlGuQuN/a.mSWZQTKeRmRCQEXpeGQdq0cSCnp1HU.",
+        "phone": "0973915557",
+        "uid": "8lQ53SZ626hA43jjfrp9RD3kuQO54V9e",
+        "name": "Tamani",
+        "address": "Lusaka",
+        "email": "Tamanigabriel0@gmail.com",
+        "createdAt": "2023-11-24 22:28:23"
+      },
+      {
+        "role": "buyer",
+        "createdAt": "2023-11-27 22:45:50",
+        "password": "$2b$10$vh24cJEKfvNOfg32S5Ve9eWRk/n7rBTc1lpY6LxzTr01tldr9lVfe",
+        "phone": "245",
+        "email": "Thh",
+        "uid": "L8dJy6d3fo5mMfejRZFc4Dpnu3b4GSRf",
+        "name": "Bj",
+        "address": "Hj"
+    },
+    {
+        "password": "$2b$10$ckrLEECF8AeHGI3XTSU8ZuY/dNtC9t3hgkTAJvjVu37jjKmbRgXy6",
+        "email": "james@user.com",
+        "uid": "92CEqwSysUSktHgBGVMfEWw39YWifmoM",
+        "name": "James waku",
+        "address": "Lusaka",
+        "role": "buyer",
+        "phone": "9754851254",
+        "createdAt": "2023-11-20 14:54:24"
+    },
+    {
+      "phone": "0960000001",
+      "createdAt": "2023-11-24 15:49:10",
+      "address": "Lusaka ",
+      "role": "buyer",
+      "password": "$2b$10$QgJdpvtRUz4sQV47vITEk.2zpgAQGlbZf4m6ARneQwnvhKjGvjgaG",
+      "name": "john ken",
+      "uid": "Jh8Kc4A83jH3phcO5PWimJzc1q3nGr4x",
+      "email": "ken@user.com"
+  }
+    ]
+  
+  }
+  

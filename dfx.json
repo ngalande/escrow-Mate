@@ -1,0 +1,38 @@
+{
+  "canisters": {
+    "escrowMate_backend": {
+      "build": "npx azle escrowMate_backend",
+      "candid": "src/MomoMarketLinkAdminDashboard_frontend/escrowMate_backend.did",
+      "gzip": true,
+      "main": "src/MomoMarketLinkAdminDashboard_frontend/src/index.ts",
+      "type": "custom",
+      "wasm": ".azle/MomoMarketLinkAdminDashboard_frontend/escrowMate_backend.wasm"
+    },
+  
+    "MomoMarketLinkAdminDashboard_frontend": {
+      "dependencies": [
+        "MomoMarketLinkAdminDashboard_frontend"
+      ],
+      "source": [
+        "src/MomoMarketLinkAdminDashboard_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "MomoMarketLinkAdminDashboard_frontend"
+    }
+    
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "networks": {
+    "local": {
+        "bind": "localhost:4943",
+        "type": "ephemeral"
+    }
+},
+  "output_env_file": ".env",
+  "version": 1
+}

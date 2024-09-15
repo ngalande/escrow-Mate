@@ -1,0 +1,30 @@
+{
+  "canisters": {
+    "escrowMate_backend": {
+      "build": "npx azle escrowMate_backend",
+      "candid": "src/escrowMate_backend/escrowMate_backend.did",
+      "gzip": true,
+      "main": "src/escrowMate_backend/src/index.ts",
+      "type": "custom",
+      "wasm": ".azle/escrowMate_backend/escrowMate_backend.wasm"
+    },
+    "escrowMate_frontend": {
+      "dependencies": [
+        "escrowMate_backend"
+      ],
+      "source": [
+        "src/escrowMate_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "escrowMate_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
